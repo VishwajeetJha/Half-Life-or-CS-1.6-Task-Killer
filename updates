@@ -1,0 +1,5 @@
+
+
+Update (18-08-2023):- Lol my code was asking the END USER for UAC early.. what can you expect, I was 14 at the time of creating this code originally xD.
+1. Added UAC Request upon launch; uses a temporary VBScript file to create a UAC elevation prompt and then execute the original batch script with administrative privileges.. instead of "or try launching with administrative privileges" haha.
+2. Added a cls here and there to keep the command prompt clean lol
